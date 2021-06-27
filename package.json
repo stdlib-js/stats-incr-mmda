@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-mmda",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compute a moving mean directional accuracy (MDA) incrementally.",
   "license": "Apache-2.0",
   "author": {
