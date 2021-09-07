@@ -146,6 +146,23 @@ console.log( accumulator() );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/mda`][@stdlib/stats/incr/mda]: compute the mean directional accuracy (MDA) incrementally.
+-   [`@stdlib/stats/incr/mmape`][@stdlib/stats/incr/mmape]: compute a moving mean absolute percentage error (MAPE) incrementally.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -206,6 +223,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/signum]: https://github.com/stdlib-js/math-base-special-signum
 
 [@stdlib/math/base/special/kronecker-delta]: https://github.com/stdlib-js/math-base-special-kronecker-delta
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/mda]: https://github.com/stdlib-js/stats-incr-mda
+
+[@stdlib/stats/incr/mmape]: https://github.com/stdlib-js/stats-incr-mmape
+
+<!-- </related-links> -->
 
 </section>
 
