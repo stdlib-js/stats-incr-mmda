@@ -20,7 +20,7 @@ limitations under the License.
 
 # incrmmda
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute a moving [mean directional accuracy][mean-directional-accuracy] (MDA) incrementally.
 
@@ -154,8 +154,8 @@ console.log( accumulator() );
 
 ## See Also
 
--   [`@stdlib/stats/incr/mda`][@stdlib/stats/incr/mda]: compute the mean directional accuracy (MDA) incrementally.
--   [`@stdlib/stats/incr/mmape`][@stdlib/stats/incr/mmape]: compute a moving mean absolute percentage error (MAPE) incrementally.
+-   <span class="package-name">[`@stdlib/stats/incr/mda`][@stdlib/stats/incr/mda]</span><span class="delimiter">: </span><span class="description">compute the mean directional accuracy (MDA) incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mmape`][@stdlib/stats/incr/mmape]</span><span class="delimiter">: </span><span class="description">compute a moving mean absolute percentage error (MAPE) incrementally.</span>
 
 </section>
 
@@ -206,8 +206,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-incr-mmda/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-incr-mmda?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-incr-mmda.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-incr-mmda/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
