@@ -1,0 +1,4 @@
+// Copyright (c) 2022 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import t from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-integer@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mmean@esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-signum@esm/index.mjs";import i from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kronecker-delta@esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/string-format@esm/index.mjs";var n=t.isPrimitive,m=e,d=s,a=i,o=r;var l=function(t){var e,s,i,r;if(!n(t))throw new TypeError(o("invalid argument. Must provide a positive integer. Value: `%s`.",t));return e=m(t),function(t,n){var m,o;if(0===arguments.length)return e();void 0===s&&(s=!0,i=t,r=n);return m=d(t-i),o=d(n-r),i=t,r=n,e(a(m,o))}};export{l as default};
+//# sourceMappingURL=index.mjs.map
