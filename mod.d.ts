@@ -18,7 +18,7 @@
 
 // TypeScript Version: 2.0
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@main/index.d.ts"/>
 
 /**
 * If provided a value, the accumulator function returns an updated mean directional accuracy. If not provided a value, the accumulator function returns the current mean directional accuracy.
